@@ -86,26 +86,24 @@ cd inventario-frontend
 npm install
 ```
 
-### 3. 🎮 Ejecutar en Modo Desarrollo
-
 ```bash
 # Servir la aplicación
 ng serve
 
-# Servir la aplicación y abrir automáticamente en el navegador
-ng serve --open
+### **Ivan Bazaga**
+🚀 Desarrollador Frontend especializado en Angular y ecosistemas JavaScript
 
-# Alternativamente, usar el script npm
-npm start
+Estudiante de Angular Intermedio con pasión por crear aplicaciones web modernas y eficientes. Este proyecto representa la aplicación práctica de conceptos avanzados de Angular incluyendo routing, servicios, formularios reactivos y arquitectura de componentes.
+
+### 📞 Información de Contacto
+
+| Plataforma | Enlace | Descripción |
+|------------|--------|-------------|
+| GitHub | [@IvBanzaga](https://github.com/IvBanzaga/) | Repositorios y proyectos de código |
+| LinkedIn | [ivan-bazaga-gonzalez](https://www.linkedin.com/in/ivan-bazaga-gonzalez/) | Perfil profesional y networking |
+| Email | [ivan.cpweb@gmail.com](mailto:ivan.cpweb@gmail.com) | Contacto directo para oportunidades |
+| Portfolio | [Ivancodelab.com](https://Ivancodelab.com) | Showcase de proyectos y skills |
 ```
-
-La aplicación estará disponible en `http://localhost:4200/`
-
-### 4. 🏗️ Compilar para Producción
-
-```bash
-# Build optimizado para producción
-ng build
 
 # Build con análisis de bundle
 ng build --stats-json
@@ -438,9 +436,9 @@ export const routes: Routes = [
 
 ## Autor
 
-### **[Tu Nombre Completo]**
+### **Iván Bazaga**
 
-🚀 **Desarrollador Frontend especializado en Angular y ecosistemas JavaScript**
+🚀 Desarrollador Frontend especializado en Angular y ecosistemas JavaScript
 
 Estudiante de Angular Intermedio con pasión por crear aplicaciones web modernas y eficientes. Este proyecto representa la aplicación práctica de conceptos avanzados de Angular incluyendo routing, servicios, formularios reactivos y arquitectura de componentes.
 
@@ -448,10 +446,10 @@ Estudiante de Angular Intermedio con pasión por crear aplicaciones web modernas
 
 | Plataforma | Enlace | Descripción |
 |------------|--------|-------------|
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) | [@tu-usuario](https://github.com/tu-usuario) | Repositorios y proyectos de código |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin) | [tu-perfil](https://linkedin.com/in/tu-perfil) | Perfil profesional y networking |
-| ![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail) | [tu-email@gmail.com](mailto:tu-email@gmail.com) | Contacto directo para oportunidades |
-| ![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome) | [tu-portfolio.com](https://tu-portfolio.com) | Showcase de proyectos y skills |
+| GitHub | [@IvBanzaga](https://github.com/IvBanzaga/) | Repositorios y proyectos de código |
+| LinkedIn | [ivan-bazaga-gonzalez](https://www.linkedin.com/in/ivan-bazaga-gonzalez/) | Perfil profesional y networking |
+| Email | [ivan.cpweb@gmail.com](mailto:ivan.cpweb@gmail.com) | Contacto directo para oportunidades |
+| Portfolio | [Ivancodelab.com](https://Ivancodelab.com) | Showcase de proyectos y skills |
 
 ### 🛠️ Stack Tecnológico de Especialización
 
