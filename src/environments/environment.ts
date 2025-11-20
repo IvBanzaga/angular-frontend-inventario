@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  apiUrl: 'https://springboot-backend-inventario.onrender.com/api/productos'
+  apiUrl: 'http://localhost:8080/api/productos'
 };
